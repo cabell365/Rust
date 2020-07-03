@@ -1,3 +1,15 @@
+// Dice Game
+// You throw up to 5 dice 3 times
+// Each lucky number rolled removes the number of die available to roll
+//
+// Here is the scoring for the game
+// 5 of your lucky number: 25 points
+// 4 of your lucky number: 20 points
+// 3 of your lucky number: 15 points
+// 2 of your lucky number: 10 points
+// 1 of your lucky number: 5 points
+extern crate rand;
+
 // Libraries in rust
 use std::io;
 // use std::{i32};
