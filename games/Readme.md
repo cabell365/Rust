@@ -1,3 +1,3 @@
-Dice game is still in development
+Dice game is still under development
 
-I am creating a Rust version of the Python version to learn Rust.
+I am creating a Rust version of the Python game to learn Rust.
